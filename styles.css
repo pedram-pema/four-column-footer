@@ -42,9 +42,8 @@ footer {
 
 .links-container {
     display: flex;
-    max-width: 850px;
+    width: 850px;
     justify-content: space-between;
-    flex-wrap: wrap;
 }
 
 h2 {
