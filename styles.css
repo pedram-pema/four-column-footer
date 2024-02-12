@@ -42,7 +42,9 @@ footer {
 
 .links-container {
     display: flex;
-    gap: 140px;
+    max-width: 850px;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 h2 {
@@ -81,5 +83,5 @@ div.brand {
 }
 
 .brand {
-    margin-bottom: 5px;
+    margin-bottom: 5px; 
 }
